@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:models\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:models\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:models\\sport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\models\\squad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:models\\squad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\repository\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\repository\\trainerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\repository\\squadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\repository\\squadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\migrations\\20260201155214_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:migrations\\20260201155214_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\migrations\\20260201163805_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:migrations\\20260201163805_mig2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\repository\\playerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\repository\\sportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\repository\\sportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\infrastructure\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:infrastructure\\repository\\teamrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\homework5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:homework5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|c:\\users\\pc\\onedrive\\desktop\\efcore\\homework5\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05D79466-7765-7D35-C7C3-36A932B19D37}|Homework5.csproj|solutionrelative:models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SquadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\SquadRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SquadRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\SquadRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SquadRepository.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAADwv1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T17:13:49.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Squad.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Squad.cs",
+              "RelativeDocumentMoniker": "Models\\Squad.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Squad.cs",
+              "RelativeToolTip": "Models\\Squad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T17:04:36.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Player.cs",
+              "RelativeDocumentMoniker": "Models\\Player.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Player.cs",
+              "RelativeToolTip": "Models\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:42:33.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\AppDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:52:37.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sport.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Sport.cs",
+              "RelativeDocumentMoniker": "Models\\Sport.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Sport.cs",
+              "RelativeToolTip": "Models\\Sport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:29:04.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\SportRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\SportRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\SportRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\SportRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:28:07.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TeamRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\TeamRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\TeamRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\TeamRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\TeamRepository.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA0wHYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:20:37.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:26:02.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "Models\\Team.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Team.cs",
+              "RelativeToolTip": "Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:15:14.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:20:47.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Homework5.csproj",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Homework5.csproj",
+              "RelativeDocumentMoniker": "Homework5.csproj",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Homework5.csproj",
+              "RelativeToolTip": "Homework5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-01T15:22:25.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrainerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\TrainerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\TrainerRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\TrainerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\TrainerRepository.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:59:40.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\PlayerRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repository\\PlayerRepository.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Infrastructure\\Repository\\PlayerRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repository\\PlayerRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:47:25.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Trainer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Trainer.cs",
+              "RelativeDocumentMoniker": "Models\\Trainer.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Models\\Trainer.cs",
+              "RelativeToolTip": "Models\\Trainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:53:10.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260201163805_Mig2.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\20260201163805_Mig2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260201163805_Mig2.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\20260201163805_Mig2.cs",
+              "RelativeToolTip": "Migrations\\20260201163805_Mig2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T16:38:11.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260201155214_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\20260201155214_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260201155214_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\Migrations\\20260201155214_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260201155214_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T15:52:35.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\OneDrive\\Desktop\\EFCore\\Homework5\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-01T15:21:10.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
