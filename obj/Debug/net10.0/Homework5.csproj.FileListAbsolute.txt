@@ -161,3 +161,4 @@ C:\Users\PC\OneDrive\Desktop\EFCore\Homework5\obj\Debug\net10.0\refint\Homework5
 C:\Users\PC\OneDrive\Desktop\EFCore\Homework5\obj\Debug\net10.0\Homework5.pdb
 C:\Users\PC\OneDrive\Desktop\EFCore\Homework5\obj\Debug\net10.0\Homework5.genruntimeconfig.cache
 C:\Users\PC\OneDrive\Desktop\EFCore\Homework5\obj\Debug\net10.0\ref\Homework5.dll
+C:\Users\PC\OneDrive\Desktop\EFCore\Homework5\obj\Debug\net10.0\Homework5.sourcelink.json

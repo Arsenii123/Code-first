@@ -29,24 +29,13 @@ namespace Homework5.Infrastructure.Repository
         public void UpdateUser(int id, int newplayer)
         {
             var t = context.Squads.FirstOrDefault(u => u.SquadId == id);
-            if (t != null)
-            {
-                t.Players = newplayer;
-                context.SaveChanges();
-            }
+
         }
 
         public void UpdateAllUsers(int newplayer)
         {
             var t = context.Squads?.Where(u => true).ToList();
-            if (t != null)
-            {
-                foreach (var tr in t)
-                {
-                    tr.Players = newplayer;
-                }
-                context.SaveChanges();
-            }
+
         }
 
         public void DeleteUser(int id)
