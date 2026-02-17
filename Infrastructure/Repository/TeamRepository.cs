@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Homework5.Infrastructure
 
 namespace Homework5.Infrastructure.Repository
 {
@@ -123,6 +124,29 @@ namespace Homework5.Infrastructure.Repository
                     }
                 }
 
+            }
+        }
+        public void GetAllTeamsWithAquads()
+        {
+            using var context = new AppDbContext();
+
+            // завантажуємо людей без захоплень
+            var people = context.Team?.ToList();
+
+            // явне завантаження захоплень для кожної людини
+            foreach (var person in people!)
+            {
+                // завантажуємо захоплення людини за допомогою явного завантаження
+                context.Entry(person)
+                       .Collection(p => p.Squads)
+                       .Load(); // тут відбувається явне завантаження
+
+                Console.WriteLine($"Name: {person.Name}");
+
+                foreach (var hobby in person.Squads)
+                {
+                    Console.WriteLine($" Players: {hobby.Players}");
+                }
             }
         }
     }

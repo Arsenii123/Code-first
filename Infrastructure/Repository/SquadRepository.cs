@@ -91,6 +91,29 @@ namespace Homework5.Infrastructure.Repository
 
             }
         }
+        public void GetAllSquadsWithPlayers()
+        {
+            using var context = new AppDbContext();
+
+            // завантажуємо людей без захоплень
+            var people = context.Squads?.ToList();
+
+            // явне завантаження захоплень для кожної людини
+            foreach (var person in people!)
+            {
+                // завантажуємо захоплення людини за допомогою явного завантаження
+                context.Entry(person)
+                       .Collection(p => p.Players)
+                       .Load(); // тут відбувається явне завантаження
+
+               
+
+                foreach (var hobby in person.Players)
+                {
+                    Console.WriteLine($" Name: {hobby.Name}");
+                }
+            }
+        }
     }
 }
 
